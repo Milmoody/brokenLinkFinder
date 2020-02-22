@@ -1,0 +1,17 @@
+{
+  "name": "detect-broken-links",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bLinks.js",
+  "scripts": {
+    "test": "test",
+    "detectBrokenLinks": "bLinks.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "cheerio": "^1.0.0-rc.3",
+    "node-fetch": "^2.6.0"
+  }
+}
